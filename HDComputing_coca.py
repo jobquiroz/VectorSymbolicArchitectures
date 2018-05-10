@@ -3,7 +3,7 @@
 Created on Wed Feb 28 12:19:57 2018
 # FUNCION TESTS COMPROBACION DE POINTERS Y DISTNACIAS
 @author: jobqu
-
+Otro comentario...
 Haciendo otro cambio
 """
 
@@ -417,3 +417,4 @@ print '\nFINAL FINAL:',final_clean(resp)
 
 
 
+>>>>>>> origin/Coment-branch
