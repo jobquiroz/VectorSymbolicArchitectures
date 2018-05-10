@@ -3,6 +3,8 @@
 Created on Wed Feb 28 12:19:57 2018
 # FUNCION TESTS COMPROBACION DE POINTERS Y DISTNACIAS
 @author: jobqu
+
+Haciendo otro cambio
 """
 
 import numpy as np     #For arrays
