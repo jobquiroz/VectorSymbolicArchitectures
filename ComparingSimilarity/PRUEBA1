@@ -468,6 +468,16 @@ Lenght:  22
 
 
 
+Starting with... piano
+HDC_sim:  [['piano', 0], ['harp', 3096], ['harpsichord', 3209], ['violin', 3576], ['keyboard_(musical)', 3577], ['clarinet', 3790]]
+DatSet_sim:  [['piano', 1.0], ['keyboard_(musical)', 0.719], ['clarinet', 0.646], ['accordion', 0.613], ['harp', 0.594], ['harpsichord', 0.576]]
+WUP_sim:  [['piano', 1.0], ['accordion', 0.9], ['banjo', 0.9], ['drum', 0.9], ['guitar', 0.9], ['cello', 0.857], ['harp', 0.857], ['harpsichord', 0.857], ['violin', 0.857], ['tuba', 0.8]]
+JC_sim:  [['piano', 1e+300], ['drum', 0.406], ['guitar', 0.355], ['violin', 0.308], ['accordion', 0.199], ['harpsichord', 0.199], ['banjo', 0.19], ['trumpet', 0.183], ['harp', 0.168], ['saxophone', 0.142]]
+
+Ultimate Union for piano : 
+set(['guitar', 'violin', 'clarinet', 'trumpet', 'harp', 'drum', 'accordion', 'tuba', 'harpsichord', 'cello', 'keyboard_(musical)', 'saxophone', 'piano', 'banjo']) 
+Lenght:  14
+
 
 
 
