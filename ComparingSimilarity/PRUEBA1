@@ -1,0 +1,473 @@
+
+Starting with... bed
+HDC_sim:  [['bed', 0], ['sofa', 4080], ['couch', 4141], ['pajamas', 4239], ['nightgown', 4248], ['pillow', 4284]]
+DatSet_sim:  [['bed', 1.0], ['pillow', 0.374], ['sofa', 0.323], ['couch', 0.322], ['cushion', 0.284], ['mink_(coat)', 0.158]]
+WUP_sim:  [['bed', 1.0], ['bookcase', 0.842], ['cabinet', 0.842], ['closet', 0.842], ['dresser', 0.842], ['lamp', 0.842], ['table', 0.842], ['bench', 0.8], ['chair', 0.8], ['couch', 0.8]]
+JC_sim:  [['bed', 1e+300], ['table', 0.343], ['desk', 0.231], ['closet', 0.214], ['curtains', 0.21], ['drapes', 0.21], ['chair', 0.205], ['dresser', 0.2], ['bench', 0.182], ['couch', 0.18]]
+
+Ultimate Union for bed : 
+set(['curtains', 'cabinet', 'dresser', 'closet', 'drapes', 'sofa', 'bed', 'couch', 'lamp', 'mink_(coat)', 'nightgown', 'cushion', 'desk', 'table', 'chair', 'bench', 'pajamas', 'pillow', 'bookcase']) 
+Lenght:  19
+
+
+Starting with... door
+HDC_sim:  [['door', 0], ['gate', 3105], ['sledgehammer', 4116], ['rake', 4129], ['racquet', 4216], ['spatula', 4222]]
+DatSet_sim:  [['door', 1.0], ['gate', 0.816], ['peg', 0.486], ['bat_(baseball)', 0.437], ['sledgehammer', 0.404], ['rake', 0.384]]
+WUP_sim:  [['door', 1.0], ['gate', 0.9], ['fence', 0.842], ['bridge', 0.706], ['building', 0.706], ['apartment', 0.667], ['basement', 0.667], ['cellar', 0.667], ['house', 0.667], ['hut', 0.667]]
+JC_sim:  [['door', 1e+300], ['gate', 0.524], ['fence', 0.461], ['building', 0.158], ['house', 0.127], ['church', 0.111], ['tent', 0.107], ['apartment', 0.106], ['wall', 0.104], ['bridge', 0.099]]
+
+Ultimate Union for door : 
+set(['sledgehammer', 'racquet', 'apartment', 'door', 'building', 'fence', 'bridge', 'wall', 'house', 'rake', 'church', 'hut', 'spatula', 'cellar', 'bat_(baseball)', 'gate', 'basement', 'peg', 'tent']) 
+Lenght:  19
+
+
+Starting with... pen
+HDC_sim:  [['pen', 0], ['peg', 3766], ['pipe_(plumbing)', 4059], ['bucket', 4076], ['umbrella', 4110], ['comb', 4113]]
+DatSet_sim:  [['pen', 1.0], ['pipe_(plumbing)', 0.36], ['baton', 0.312], ['hose', 0.31], ['cap_(bottle)', 0.277], ['comb', 0.265]]
+WUP_sim:  [['pen', 1.0], ['crayon', 0.889], ['pencil', 0.889], ['brush', 0.824], ['baton', 0.778], ['broom', 0.778], ['drill', 0.778], ['harpoon', 0.778], ['hoe', 0.778], ['paintbrush', 0.778]]
+JC_sim:  [['pen', 1e+300], ['pencil', 0.502], ['crayon', 0.178], ['knife', 0.109], ['chisel', 0.105], ['brush', 0.104], ['pot', 0.101], ['racquet', 0.099], ['drill', 0.096], ['axe', 0.095]]
+
+Ultimate Union for pen : 
+set(['pencil', 'hose', 'umbrella', 'chisel', 'pot', 'baton', 'crayon', 'brush', 'harpoon', 'pipe_(plumbing)', 'comb', 'racquet', 'hoe', 'broom', 'bucket', 'pen', 'paintbrush', 'drill', 'axe', 'peg', 'cap_(bottle)', 'knife']) 
+Lenght:  22
+
+
+Starting with... table
+HDC_sim:  [['table', 0], ['stool_(furniture)', 3861], ['chair', 3971], ['tray', 4043], ['desk', 4043], ['cabinet', 4123]]
+DatSet_sim:  [['table', 1.0], ['barrel', 0.514], ['stool_(furniture)', 0.492], ['cabinet', 0.443], ['chair', 0.425], ['peg', 0.424]]
+WUP_sim:  [['table', 1.0], ['desk', 0.947], ['bookcase', 0.889], ['cabinet', 0.889], ['closet', 0.889], ['dresser', 0.889], ['lamp', 0.889], ['bed', 0.842], ['bench', 0.842], ['chair', 0.842]]
+JC_sim:  [['table', 1e+300], ['desk', 0.705], ['bed', 0.343], ['closet', 0.239], ['curtains', 0.234], ['drapes', 0.234], ['chair', 0.228], ['dresser', 0.222], ['bench', 0.2], ['couch', 0.197]]
+
+Ultimate Union for table : 
+set(['curtains', 'couch', 'closet', 'drapes', 'stool_(furniture)', 'cabinet', 'dresser', 'lamp', 'bookcase', 'bed', 'desk', 'table', 'chair', 'peg', 'tray', 'barrel', 'bench']) 
+Lenght:  17
+
+
+Starting with... shoes
+HDC_sim:  [['shoes', 0], ['boots', 3436], ['slippers', 4130], ['belt', 4186], ['socks', 4267], ['sandals', 4281]]
+DatSet_sim:  [['shoes', 1.0], ['boots', 0.62], ['sandals', 0.382], ['belt', 0.377], ['saddle', 0.315], ['whip', 0.306]]
+WUP_sim:  [['shoes', 1.0], ['sandals', 0.941], ['boots', 0.875], ['slippers', 0.875], ['earmuffs', 0.8], ['cap_(bottle)', 0.75], ['carpet', 0.75], ['mat', 0.75], ['shield', 0.75], ['skirt', 0.75]]
+JC_sim:  [['shoes', 1e+300], ['boots', 0.398], ['slippers', 0.323], ['sandals', 0.305], ['pants', 0.138], ['shield', 0.13], ['dress', 0.127], ['coat', 0.121], ['curtains', 0.121], ['drapes', 0.121]]
+
+Ultimate Union for shoes : 
+set(['curtains', 'shoes', 'drapes', 'boots', 'socks', 'skirt', 'sandals', 'dress', 'whip', 'belt', 'earmuffs', 'saddle', 'coat', 'mat', 'shield', 'cap_(bottle)', 'carpet', 'slippers', 'pants']) 
+Lenght:  19
+
+
+Starting with... key
+HDC_sim:  [['key', 0], ['pin', 4107], ['thimble', 4131], ['chain', 4189], ['tack', 4202], ['flute', 4205]]
+DatSet_sim:  [['key', 1.0], ['bolts', 0.394], ['pin', 0.359], ['crowbar', 0.353], ['buckle', 0.327], ['chain', 0.323]]
+WUP_sim:  [['key', 1.0], ['comb', 0.875], ['fan_(appliance)', 0.875], ['keyboard_(musical)', 0.875], ['tongs', 0.875], ['bomb', 0.824], ['clamp', 0.824], ['crane_(machine)', 0.824], ['elevator', 0.824], ['level', 0.824]]
+JC_sim:  [['key', 1e+300], ['gun', 0.116], ['level', 0.102], ['wheel', 0.1], ['building', 0.098], ['car', 0.098], ['missile', 0.098], ['ruler', 0.097], ['mirror', 0.096], ['pistol', 0.096]]
+
+Ultimate Union for key : 
+set(['clamp', 'wheel', 'bomb', 'bolts', 'chain', 'ruler', 'flute', 'missile', 'tack', 'key', 'mirror', 'comb', 'crane_(machine)', 'building', 'pin', 'level', 'car', 'buckle', 'fan_(appliance)', 'gun', 'elevator', 'tongs', 'thimble', 'keyboard_(musical)', 'pistol', 'crowbar']) 
+Lenght:  26
+
+
+Starting with... chair
+HDC_sim:  [['chair', 0], ['sofa', 3572], ['stool_(furniture)', 3620], ['couch', 3751], ['table', 3971], ['bench', 4073]]
+DatSet_sim:  [['chair', 1.0], ['stool_(furniture)', 0.611], ['couch', 0.568], ['sofa', 0.546], ['bench', 0.511], ['table', 0.425]]
+WUP_sim:  [['chair', 1.0], ['rocker', 0.952], ['bench', 0.9], ['couch', 0.9], ['sofa', 0.9], ['stool_(furniture)', 0.9], ['bookcase', 0.842], ['cabinet', 0.842], ['closet', 0.842], ['dresser', 0.842]]
+JC_sim:  [['chair', 1e+300], ['rocker', 0.347], ['bench', 0.3], ['couch', 0.294], ['sofa', 0.294], ['table', 0.228], ['bed', 0.205], ['stool_(furniture)', 0.197], ['desk', 0.172], ['closet', 0.163]]
+
+Ultimate Union for chair : 
+set(['rocker', 'cabinet', 'bookcase', 'bed', 'desk', 'table', 'chair', 'couch', 'closet', 'sofa', 'stool_(furniture)', 'bench', 'dresser']) 
+Lenght:  13
+
+
+Starting with... spoon
+HDC_sim:  [['spoon', 0], ['ladle', 3329], ['spatula', 3727], ['colander', 3824], ['fork', 3864], ['tongs', 4022]]
+DatSet_sim:  [['spoon', 1.0], ['fork', 0.546], ['ladle', 0.411], ['spatula', 0.395], ['tongs', 0.35], ['colander', 0.336]]
+WUP_sim:  [['fork', 0.9], ['spoon', 0.9], ['bag', 0.875], ['basket', 0.875], ['bin_(waste)', 0.875], ['box', 0.875], ['envelope', 0.875], ['thimble', 0.875], ['ashtray', 0.824], ['barrel', 0.824]]
+JC_sim:  [['spoon', 1e+300], ['fork', 0.697], ['dish', 0.182], ['cup', 0.152], ['plate', 0.145], ['car', 0.119], ['truck', 0.107], ['box', 0.106], ['bag', 0.102], ['bike', 0.1]]
+
+Ultimate Union for spoon : 
+set(['fork', 'plate', 'bin_(waste)', 'ladle', 'envelope', 'spatula', 'spoon', 'dish', 'box', 'tongs', 'ashtray', 'car', 'cup', 'colander', 'bag', 'thimble', 'bike', 'truck', 'basket', 'barrel']) 
+Lenght:  20
+
+
+Starting with... car
+HDC_sim:  [['car', 0], ['van', 3217], ['truck', 3403], ['bus', 3412], ['dunebuggy', 3716], ['taxi', 3736]]
+DatSet_sim:  [['car', 1.0], ['van', 0.599], ['bus', 0.563], ['scooter', 0.551], ['skateboard', 0.547], ['truck', 0.525]]
+WUP_sim:  [['car', 1.0], ['ambulance', 0.96], ['jeep', 0.96], ['limousine', 0.96], ['taxi', 0.96], ['motorcycle', 0.917], ['truck', 0.917], ['van', 0.88], ['tractor', 0.87], ['trolley', 0.87]]
+JC_sim:  [['car', 1e+300], ['truck', 0.615], ['limousine', 0.37], ['van', 0.32], ['taxi', 0.304], ['bike', 0.254], ['ship', 0.245], ['jeep', 0.244], ['boat', 0.226], ['tractor', 0.224]]
+
+Ultimate Union for car : 
+set(['taxi', 'trolley', 'van', 'tractor', 'jeep', 'bus', 'scooter', 'ambulance', 'skateboard', 'dunebuggy', 'bike', 'truck', 'motorcycle', 'car', 'ship', 'limousine', 'boat']) 
+Lenght:  17
+
+
+Starting with... lamp
+HDC_sim:  [['lamp', 0], ['chandelier', 3832], ['lantern', 4413]]
+DatSet_sim:  [['lamp', 1.0], ['chandelier', 0.411], ['mixer', 0.256], ['eel', 0.18], ['fan_(appliance)', 0.171], ['toaster', 0.167]]
+
+WUP_sim:  [['lamp', 1.0], ['bookcase', 0.889], ['cabinet', 0.889], ['closet', 0.889], ['dresser', 0.889], ['table', 0.889], ['bed', 0.842], ['bench', 0.842], ['chair', 0.842], ['couch', 0.842]]
+JC_sim:  [['lamp', 1e+300], ['table', 0.167], ['bed', 0.155], ['desk', 0.135], ['closet', 0.129], ['curtains', 0.128], ['drapes', 0.128], ['chair', 0.126], ['dresser', 0.124], ['bench', 0.117]]
+
+Ultimate Union for lamp : 
+set(['curtains', 'toaster', 'drapes', 'cabinet', 'chandelier', 'bed', 'desk', 'table', 'chair', 'bench', 'closet', 'fan_(appliance)', 'mixer', 'couch', 'eel', 'lamp', 'bookcase', 'dresser', 'lantern']) 
+Lenght:  19
+
+
+Starting with... sofa
+HDC_sim:  [['sofa', 0], ['couch', 2703], ['chair', 3572], ['bed', 4080], ['table', 4241], ['cushion', 4249]]
+DatSet_sim:  [['sofa', 1.0], ['couch', 0.879], ['chair', 0.546], ['bed', 0.323], ['cushion', 0.266], ['pillow', 0.227]]
+WUP_sim:  [['couch', 1.0], ['sofa', 1.0], ['bench', 0.9], ['chair', 0.9], ['stool_(furniture)', 0.9], ['rocker', 0.857], ['bookcase', 0.842], ['cabinet', 0.842], ['closet', 0.842], ['dresser', 0.842]]
+JC_sim:  [['couch', 1e+300], ['sofa', 1e+300], ['chair', 0.294], ['bench', 0.249], ['table', 0.197], ['bed', 0.18], ['stool_(furniture)', 0.173], ['rocker', 0.159], ['desk', 0.154], ['closet', 0.146]]
+
+Ultimate Union for sofa : 
+set(['rocker', 'cabinet', 'bookcase', 'stool_(furniture)', 'cushion', 'desk', 'table', 'chair', 'bench', 'closet', 'sofa', 'bed', 'couch', 'pillow', 'dresser']) 
+Lenght:  15
+
+
+Starting with... dog
+HDC_sim:  [['dog', 0], ['cat', 3646], ['fox', 3714], ['moose', 3797], ['skunk', 3935], ['hamster', 3936]]
+DatSet_sim:  [['dog', 1.0], ['cat', 0.602], ['donkey', 0.549], ['fox', 0.51], ['deer', 0.422], ['gopher', 0.417]]
+WUP_sim:  [['dog', 0.929], ['fox', 0.929], ['hyena', 0.929], ['coyote', 0.897], ['bear', 0.889], ['cat', 0.857], ['otter', 0.857], ['raccoon', 0.857], ['skunk', 0.857], ['bat_(animal)', 0.846]]
+JC_sim:  [['dog', 1e+300], ['cat', 0.45], ['fox', 0.327], ['bear', 0.298], ['cougar', 0.249], ['lion', 0.237], ['coyote', 0.2], ['tiger', 0.187], ['hyena', 0.175], ['horse', 0.169]]
+
+Ultimate Union for dog : 
+set(['moose', 'deer', 'gopher', 'bear', 'tiger', 'lion', 'bat_(animal)', 'coyote', 'donkey', 'otter', 'horse', 'fox', 'dog', 'cat', 'hyena', 'cougar', 'hamster', 'raccoon', 'skunk']) 
+Lenght:  19
+
+
+Starting with... banana
+HDC_sim:  [['banana', 0], ['pear', 3014], ['peach', 3399], ['mandarin', 3430], ['plum', 3618], ['avocado', 3684]]
+DatSet_sim:  [['banana', 1.0], ['pear', 0.756], ['lemon', 0.572], ['grapefruit', 0.528], ['avocado', 0.502], ['pineapple', 0.495]]
+WUP_sim:  [['olive', 0.857], ['apple', 0.818], ['avocado', 0.818], ['banana', 0.818], ['cherry', 0.818], ['cranberry', 0.818], ['grape', 0.818], ['nectarine', 0.818], ['peach', 0.818], ['pear', 0.818]]
+JC_sim:  [['banana', 1e+300], ['apple', 0.14], ['grape', 0.136], ['orange', 0.13], ['avocado', 0.122], ['lemon', 0.122], ['lime', 0.115], ['beans', 0.114], ['pear', 0.114], ['pineapple', 0.114]]
+
+Ultimate Union for banana : 
+set(['apple', 'cranberry', 'pear', 'orange', 'olive', 'grape', 'lime', 'lemon', 'nectarine', 'peach', 'cherry', 'plum', 'avocado', 'grapefruit', 'beans', 'pineapple', 'mandarin', 'banana']) 
+Lenght:  18
+
+
+Starting with... knife
+HDC_sim:  [['knife', 0], ['sword', 3152], ['dagger', 3292], ['machete', 3372], ['grater', 3578], ['axe', 3658]]
+DatSet_sim:  [['knife', 1.0], ['machete', 0.757], ['scissors', 0.715], ['dagger', 0.683], ['sword', 0.679], ['hatchet', 0.537]]
+WUP_sim:  [['knife', 1.0], ['axe', 0.917], ['chisel', 0.917], ['razor', 0.917], ['scissors', 0.917], ['hatchet', 0.88], ['drill', 0.762], ['hoe', 0.762], ['rake', 0.762], ['hammer', 0.727]]
+JC_sim:  [['knife', 1e+300], ['chisel', 0.298], ['axe', 0.227], ['razor', 0.211], ['hatchet', 0.167], ['scissors', 0.161], ['drill', 0.125], ['shovel', 0.123], ['brush', 0.118], ['spatula', 0.117]]
+
+Ultimate Union for knife : 
+set(['razor', 'grater', 'dagger', 'drill', 'shovel', 'hatchet', 'rake', 'chisel', 'spatula', 'hoe', 'brush', 'sword', 'axe', 'scissors', 'machete', 'hammer', 'knife']) 
+Lenght:  17
+
+
+Starting with... airplane
+HDC_sim:  [['airplane', 0], ['jet', 2409], ['train', 3861], ['helicopter', 3892], ['rocket', 3958], ['trolley', 4116]]
+DatSet_sim:  [['airplane', 1.0], ['jet', 0.775], ['housefly', 0.476], ['falcon', 0.471], ['moth', 0.469], ['hornet', 0.465]]
+WUP_sim:  [['airplane', 1.0], ['jet', 0.96], ['helicopter', 0.917], ['boat', 0.783], ['ship', 0.783], ['yacht', 0.783], ['sled', 0.762], ['sleigh', 0.762], ['sailboat', 0.75], ['bike', 0.727]]
+JC_sim:  [['airplane', 1e+300], ['jet', 0.477], ['ship', 0.363], ['boat', 0.323], ['submarine', 0.219], ['car', 0.217], ['helicopter', 0.202], ['truck', 0.178], ['canoe', 0.165], ['bike', 0.159]]
+
+Ultimate Union for airplane : 
+set(['rocket', 'canoe', 'moth', 'sled', 'housefly', 'train', 'falcon', 'airplane', 'ship', 'boat', 'trolley', 'jet', 'sailboat', 'yacht', 'submarine', 'bike', 'truck', 'car', 'sleigh', 'helicopter', 'hornet']) 
+Lenght:  21
+
+
+Starting with... house
+HDC_sim:  [['house', 0], ['bungalow', 3333], ['building', 3450], ['cottage', 3642], ['hut', 3773], ['apartment', 3953]]
+DatSet_sim:  [['house', 1.0], ['building', 0.489], ['bungalow', 0.48], ['apartment', 0.414], ['cottage', 0.407], ['hut', 0.329]]
+WUP_sim:  [['house', 1.0], ['bungalow', 0.947], ['cabin', 0.947], ['cottage', 0.947], ['building', 0.933], ['skyscraper', 0.875], ['apartment', 0.824], ['barn', 0.824], ['chapel', 0.824], ['church', 0.824]]
+JC_sim:  [['house', 1e+300], ['building', 0.64], ['apartment', 0.321], ['cabin', 0.259], ['bungalow', 0.249], ['cottage', 0.249], ['church', 0.236], ['shed', 0.17], ['inn', 0.149], ['barn', 0.148]]
+
+Ultimate Union for house : 
+set(['shed', 'house', 'hut', 'inn', 'church', 'cottage', 'barn', 'building', 'apartment', 'bungalow', 'skyscraper', 'chapel', 'cabin']) 
+Lenght:  13
+
+
+Starting with... book
+HDC_sim:  [['book', 0], ['magazine', 4095], ['board_(black)', 4467]]
+DatSet_sim:  [['book', 1.0], ['magazine', 0.368], ['card_(greeting)', 0.152], ['napkin', 0.114], ['banner', 0.107], ['envelope', 0.086]]
+WUP_sim:  [['book', 1.0], ['magazine', 0.9], ['toy', 0.625], ['balloon', 0.588], ['board_(black)', 0.588], ['bow_(ribbon)', 0.588], ['brick', 0.588], ['bridge', 0.588], ['building', 0.588], ['cushion', 0.588]]
+JC_sim:  [['book', 1e+300], ['magazine', 0.207], ['building', 0.118], ['toilet', 0.103], ['house', 0.1], ['car', 0.097], ['gun', 0.096], ['table', 0.095], ['pipe', 0.094], ['toy', 0.091]]
+
+Ultimate Union for book : 
+set(['bridge', 'board_(black)', 'toilet', 'house', 'envelope', 'cushion', 'table', 'banner', 'building', 'toy', 'card_(greeting)', 'bow_(ribbon)', 'car', 'balloon', 'napkin', 'gun', 'pipe', 'magazine', 'book', 'brick']) 
+Lenght:  20
+
+
+Starting with... train
+HDC_sim:  [['train', 0], ['jet', 3176], ['scooter', 3844], ['airplane', 3861], ['dunebuggy', 3913], ['motorcycle', 3951]]
+DatSet_sim:  [['train', 1.0], ['jet', 0.446], ['scooter', 0.349], ['bus', 0.348], ['subway', 0.341], ['car', 0.337]]
+WUP_sim:  [['train', 1.0], ['bus', 0.889], ['trailer', 0.824], ['sled', 0.778], ['sleigh', 0.778], ['bike', 0.737], ['missile', 0.737], ['scooter', 0.737], ['skateboard', 0.737], ['tank_(army)', 0.737]]
+JC_sim:  [['train', 1e+300], ['bus', 0.267], ['car', 0.183], ['ship', 0.161], ['truck', 0.155], ['boat', 0.153], ['airplane', 0.148], ['bike', 0.14], ['missile', 0.14], ['van', 0.126]]
+
+Ultimate Union for train : 
+set(['bus', 'sled', 'missile', 'dunebuggy', 'train', 'motorcycle', 'airplane', 'ship', 'boat', 'van', 'jet', 'car', 'scooter', 'skateboard', 'tank_(army)', 'bike', 'truck', 'subway', 'sleigh', 'trailer']) 
+Lenght:  20
+
+
+Starting with... wheel
+HDC_sim:  [['wheel', 0], ['bucket', 4212], ['peg', 4240], ['urn', 4302], ['coin', 4317], ['pot', 4351]]
+DatSet_sim:  [['wheel', 1.0], ['marble', 0.381], ['coin', 0.367], ['plate', 0.36], ['pipe_(plumbing)', 0.332], ['bowl', 0.314]]
+WUP_sim:  [['wheel', 1.0], ['screws', 0.87], ['hook', 0.857], ['anchor', 0.818], ['comb', 0.737], ['fan_(appliance)', 0.737], ['key', 0.737], ['keyboard_(musical)', 0.737], ['tongs', 0.737], ['faucet', 0.727]]
+JC_sim:  [['wheel', 1e+300], ['screws', 0.239], ['hook', 0.148], ['anchor', 0.139], ['gun', 0.116], ['faucet', 0.109], ['tap', 0.105], ['level', 0.102], ['key', 0.1], ['building', 0.098]]
+
+Ultimate Union for wheel : 
+set(['wheel', 'plate', 'tap', 'bowl', 'pot', 'hook', 'key', 'screws', 'pipe_(plumbing)', 'coin', 'building', 'faucet', 'comb', 'level', 'urn', 'fan_(appliance)', 'bucket', 'gun', 'anchor', 'tongs', 'keyboard_(musical)', 'peg', 'marble']) 
+Lenght:  23
+
+
+Starting with... cup
+
+HDC_sim:  [['cup', 0], ['plate', 3653], ['dish', 3692], ['mug', 3902], ['saucer', 4050], ['bottle', 4126]]
+DatSet_sim:  [['cup', 1.0], ['mug', 0.582], ['bottle', 0.34], ['bucket', 0.292], ['plate', 0.282], ['spatula', 0.273]]
+WUP_sim:  [['cup', 0.9], ['dish', 0.9], ['bag', 0.875], ['basket', 0.875], ['bin_(waste)', 0.875], ['box', 0.875], ['envelope', 0.875], ['thimble', 0.875], ['ashtray', 0.824], ['barrel', 0.824]]
+JC_sim:  [['cup', 1e+300], ['dish', 0.467], ['plate', 0.166], ['spoon', 0.152], ['fork', 0.149], ['car', 0.133], ['truck', 0.118], ['box', 0.116], ['bag', 0.112], ['saucer', 0.11]]
+
+Ultimate Union for cup : 
+set(['fork', 'plate', 'bin_(waste)', 'envelope', 'spatula', 'spoon', 'dish', 'saucer', 'box', 'cup', 'car', 'ashtray', 'bucket', 'thimble', 'bag', 'mug', 'truck', 'bottle', 'basket', 'barrel']) 
+Lenght:  20
+
+
+Starting with... stone
+HDC_sim:  [['stone', 0], ['rock', 2947], ['marble', 4001], ['grenade', 4015], ['ball', 4023], ['pearl', 4032]]
+DatSet_sim:  [['stone', 1.0], ['rock', 0.723], ['marble', 0.308], ['brick', 0.302], ['ball', 0.274], ['pearl', 0.253]]
+WUP_sim:  [['stone', 1.0], ['brick', 0.857], ['board_(wood)', 0.8], ['toy', 0.769], ['balloon', 0.714], ['board_(black)', 0.714], ['bow_(ribbon)', 0.714], ['bridge', 0.714], ['building', 0.714], ['cushion', 0.714]]
+JC_sim:  [['stone', 1e+300], ['board_(wood)', 0.256], ['brick', 0.169], ['building', 0.091], ['toilet', 0.082], ['book', 0.08], ['house', 0.08], ['car', 0.078], ['gun', 0.077], ['table', 0.077]]
+
+Ultimate Union for stone : 
+set(['bridge', 'board_(black)', 'ball', 'toilet', 'house', 'cushion', 'table', 'building', 'stone', 'toy', 'bow_(ribbon)', 'car', 'balloon', 'gun', 'marble', 'pearl', 'book', 'rock', 'brick', 'board_(wood)', 'grenade']) 
+Lenght:  21
+
+
+
+
+
+Starting with... book
+HDC_sim:  [['book', 0], ['magazine', 4095], ['board_(black)', 4467]]
+DatSet_sim:  [['book', 1.0], ['magazine', 0.368], ['card_(greeting)', 0.152], ['napkin', 0.114], ['banner', 0.107], ['envelope', 0.086]]
+WUP_sim:  [['book', 1.0], ['magazine', 0.9], ['toy', 0.625], ['balloon', 0.588], ['board_(black)', 0.588], ['bow_(ribbon)', 0.588], ['brick', 0.588], ['bridge', 0.588], ['building', 0.588], ['cushion', 0.588]]
+JC_sim:  [['book', 1e+300], ['magazine', 0.207], ['building', 0.118], ['toilet', 0.103], ['house', 0.1], ['car', 0.097], ['gun', 0.096], ['table', 0.095], ['pipe', 0.094], ['toy', 0.091]]
+
+Ultimate Union for book : 
+set(['bridge', 'board_(black)', 'toilet', 'house', 'envelope', 'cushion', 'table', 'banner', 'building', 'toy', 'card_(greeting)', 'bow_(ribbon)', 'car', 'balloon', 'napkin', 'gun', 'pipe', 'magazine', 'book', 'brick']) 
+Lenght:  20
+
+
+Starting with... clock
+HDC_sim:  [['clock', 0]]
+DatSet_sim:  [['clock', 1.0], ['mixer', 0.144], ['plate', 0.123], ['wheel', 0.119], ['marble', 0.11], ['coin', 0.108]]
+WUP_sim:  [['clock', 1.0], ['thermometer', 0.857], ['ruler', 0.818], ['whip', 0.8], ['bow_(weapon)', 0.762], ['catapult', 0.762], ['gun', 0.762], ['missile', 0.762], ['spear', 0.762], ['sword', 0.762]]
+JC_sim:  [['clock', 1e+300], ['ruler', 0.202], ['gun', 0.163], ['thermometer', 0.15], ['missile', 0.129], ['pistol', 0.126], ['sword', 0.124], ['rifle', 0.121], ['whip', 0.117], ['bullet', 0.114]]
+
+Ultimate Union for clock : 
+set(['wheel', 'plate', 'spear', 'ruler', 'bow_(weapon)', 'missile', 'rifle', 'coin', 'whip', 'catapult', 'bullet', 'clock', 'gun', 'mixer', 'sword', 'thermometer', 'pistol', 'marble']) 
+Lenght:  18
+
+
+Starting with... anchor
+HDC_sim:  [['anchor', 0], ['sledgehammer', 4192], ['cannon', 4214], ['crane_(machine)', 4231], ['tank_(army)', 4254], ['tuba', 4274]]
+DatSet_sim:  [['anchor', 1.0], ['sledgehammer', 0.541], ['crowbar', 0.496], ['crane_(machine)', 0.379], ['armour', 0.377], ['wrench', 0.318]]
+WUP_sim:  [['anchor', 1.0], ['hook', 0.952], ['wheel', 0.818], ['screws', 0.783], ['comb', 0.737], ['fan_(appliance)', 0.737], ['key', 0.737], ['keyboard_(musical)', 0.737], ['tongs', 0.737], ['faucet', 0.727]]
+JC_sim:  [['anchor', 1e+300], ['hook', 2.162], ['wheel', 0.139], ['screws', 0.109], ['gun', 0.09], ['faucet', 0.085], ['tap', 0.083], ['level', 0.081], ['key', 0.08], ['building', 0.079]]
+
+Ultimate Union for anchor : 
+set(['wheel', 'building', 'tap', 'cannon', 'armour', 'hook', 'key', 'screws', 'comb', 'sledgehammer', 'tongs', 'faucet', 'crane_(machine)', 'level', 'fan_(appliance)', 'gun', 'tuba', 'tank_(army)', 'wrench', 'keyboard_(musical)', 'anchor', 'crowbar']) 
+Lenght:  22
+
+
+Starting with... candle
+HDC_sim:  [['candle', 0], ['shell', 4394], ['bow_(ribbon)', 4400], ['envelope', 4456], ['crayon', 4480]]
+DatSet_sim:  [['candle', 1.0], ['crayon', 0.307], ['shell', 0.108], ['bow_(ribbon)', 0.102], ['hose_(leggings)', 0.101], ['bag', 0.088]]
+WUP_sim:  [['candle', 1.0], ['lantern', 0.9], ['comb', 0.778], ['fan_(appliance)', 0.778], ['key', 0.778], ['keyboard_(musical)', 0.778], ['tongs', 0.778], ['bomb', 0.737], ['clamp', 0.737], ['crane_(machine)', 0.737]]
+JC_sim:  [['candle', 1e+300], ['lantern', 0.201], ['gun', 0.094], ['level', 0.085], ['key', 0.083], ['wheel', 0.083], ['building', 0.082], ['car', 0.082], ['missile', 0.082], ['mirror', 0.081]]
+
+Ultimate Union for candle : 
+set(['clamp', 'wheel', 'shell', 'bomb', 'envelope', 'missile', 'crayon', 'key', 'mirror', 'candle', 'comb', 'building', 'crane_(machine)', 'bow_(ribbon)', 'level', 'car', 'fan_(appliance)', 'hose_(leggings)', 'gun', 'tongs', 'bag', 'keyboard_(musical)', 'lantern']) 
+Lenght:  23
+
+
+Starting with... pencil
+HDC_sim:  [['pencil', 0], ['pen', 4245], ['spatula', 4256], ['stick', 4279], ['flute', 4329], ['ruler', 4345]]
+DatSet_sim:  [['pencil', 1.0], ['stick', 0.321], ['board_(wood)', 0.289], ['barrel', 0.275], ['bat_(baseball)', 0.271], ['peg', 0.255]]
+WUP_sim:  [['pencil', 1.0], ['crayon', 0.889], ['pen', 0.889], ['brush', 0.824], ['baton', 0.778], ['broom', 0.778], ['drill', 0.778], ['harpoon', 0.778], ['hoe', 0.778], ['paintbrush', 0.778]]
+JC_sim:  [['pencil', 1e+300], ['pen', 0.502], ['crayon', 0.184], ['knife', 0.112], ['chisel', 0.107], ['brush', 0.106], ['pot', 0.103], ['racquet', 0.101], ['drill', 0.098], ['axe', 0.097]]
+
+Ultimate Union for pencil : 
+set(['pencil', 'ruler', 'pot', 'flute', 'baton', 'spatula', 'hoe', 'crayon', 'stick', 'harpoon', 'bat_(baseball)', 'racquet', 'peg', 'broom', 'chisel', 'pen', 'knife', 'drill', 'axe', 'barrel', 'board_(wood)', 'paintbrush', 'brush']) 
+Lenght:  23
+
+
+Starting with... escalator
+HDC_sim:  [['escalator', 0], ['elevator', 3712], ['spade', 4233], ['razor', 4336], ['keyboard_(musical)', 4344], ['stove', 4387]]
+DatSet_sim:  [['escalator', 1.0], ['elevator', 0.419], ['crowbar', 0.17], ['mixer', 0.153], ['toaster', 0.139], ['kettle', 0.138]]
+WUP_sim:  [['escalator', 1.0], ['toy', 0.714], ['balloon', 0.667], ['board_(black)', 0.667], ['bow_(ribbon)', 0.667], ['brick', 0.667], ['bridge', 0.667], ['building', 0.667], ['cushion', 0.667], ['doll', 0.667]]
+JC_sim:  [['escalator', 1e+300], ['accordion', 0.0], ['airplane', 0.0], ['alligator', 0.0], ['ambulance', 0.0], ['anchor', 0.0], ['ant', 0.0], ['apartment', 0.0], ['apple', 0.0], ['apron', 0.0]]
+
+Ultimate Union for escalator : 
+set(['bridge', 'board_(black)', 'kettle', 'apple', 'doll', 'stove', 'ambulance', 'ant', 'apartment', 'mixer', 'cushion', 'airplane', 'spade', 'building', 'razor', 'toy', 'escalator', 'bow_(ribbon)', 'accordion', 'alligator', 'balloon', 'toaster', 'elevator', 'apron', 'keyboard_(musical)', 'brick', 'anchor', 'crowbar']) 
+Lenght:  28
+
+
+Starting with... balloon
+HDC_sim:  [['balloon', 0], ['umbrella', 4122], ['rattle', 4199], ['kite', 4212], ['bin_(waste)', 4270], ['marble', 4303]]
+DatSet_sim:  [['balloon', 1.0], ['marble', 0.291], ['raft', 0.27], ['bowl', 0.233], ['wheel', 0.219], ['ball', 0.217]]
+WUP_sim:  [['balloon', 1.0], ['toy', 0.923], ['doll', 0.857], ['kite', 0.857], ['rattle', 0.857], ['slingshot', 0.857], ['board_(black)', 0.714], ['bow_(ribbon)', 0.714], ['brick', 0.714], ['bridge', 0.714]]
+JC_sim:  [['balloon', 1e+300], ['toy', 0.271], ['doll', 0.161], ['rattle', 0.124], ['slingshot', 0.118], ['kite', 0.101], ['building', 0.076], ['toilet', 0.07], ['book', 0.068], ['house', 0.068]]
+
+Ultimate Union for balloon : 
+set(['wheel', 'bridge', 'board_(black)', 'ball', 'umbrella', 'kite', 'bin_(waste)', 'doll', 'rattle', 'house', 'slingshot', 'toilet', 'building', 'toy', 'bow_(ribbon)', 'balloon', 'bowl', 'book', 'raft', 'brick', 'marble']) 
+Lenght:  21
+
+
+Starting with... carpet
+HDC_sim:  [['carpet', 0], ['scarf', 4046], ['socks', 4386], ['nightgown', 4472], ['ashtray', 4477], ['earmuffs', 4486]]
+DatSet_sim:  [['carpet', 1.0], ['cushion', 0.223], ['mink_(coat)', 0.181], ['pillow', 0.175], ['sweater', 0.161], ['scarf', 0.159]]
+WUP_sim:  [['carpet', 1.0], ['curtains', 0.875], ['drapes', 0.875], ['mat', 0.875], ['bookcase', 0.824], ['cabinet', 0.824], ['closet', 0.824], ['dresser', 0.824], ['lamp', 0.824], ['table', 0.824]]
+JC_sim:  [['carpet', 1e+300], ['mat', 0.458], ['table', 0.185], ['bed', 0.17], ['desk', 0.146], ['curtains', 0.142], ['drapes', 0.142], ['closet', 0.14], ['chair', 0.136], ['dresser', 0.134]]
+
+Ultimate Union for carpet : 
+set(['curtains', 'mat', 'drapes', 'socks', 'cabinet', 'bookcase', 'bed', 'cushion', 'desk', 'table', 'chair', 'carpet', 'earmuffs', 'closet', 'ashtray', 'sweater', 'nightgown', 'lamp', 'mink_(coat)', 'pillow', 'scarf', 'dresser']) 
+Lenght:  22
+
+
+Starting with... subway
+HDC_sim:  [['subway', 0], ['jet', 4081], ['train', 4083], ['bus', 4160], ['taxi', 4196], ['ambulance', 4313]]
+DatSet_sim:  [['subway', 1.0], ['jet', 0.429], ['bus', 0.395], ['train', 0.341], ['airplane', 0.295], ['car', 0.287]]
+WUP_sim:  [['subway', 1.0], ['armour', 0.526], ['bureau', 0.526], ['bouquet', 0.353], ['card_(greeting)', 0.222], ['certificate', 0.222], ['medal', 0.222], ['seal', 0.222], ['bat_(baseball)', 0.211], ['cork', 0.211]]
+JC_sim:  [['subway', 1e+300], ['bureau', 0.106], ['armour', 0.066], ['building', 0.063], ['coin', 0.061], ['bouquet', 0.059], ['toilet', 0.059], ['house', 0.058], ['book', 0.057], ['car', 0.057]]
+
+Ultimate Union for subway : 
+set(['taxi', 'toilet', 'bouquet', 'bus', 'armour', 'bat_(baseball)', 'cork', 'train', 'seal', 'airplane', 'coin', 'medal', 'building', 'card_(greeting)', 'certificate', 'jet', 'house', 'car', 'book', 'bureau', 'subway', 'ambulance']) 
+Lenght:  22
+
+
+Starting with... potato
+
+HDC_sim:  [['potato', 0], ['beans', 3617], ['eggplant', 3658], ['turnip', 3702], ['yam', 3762], ['cauliflower', 3810]]
+DatSet_sim:  [['potato', 1.0], ['turnip', 0.543], ['beans', 0.483], ['beets', 0.449], ['eggplant', 0.43], ['asparagus', 0.415]]
+WUP_sim:  [['potato', 1.0], ['beets', 0.889], ['eggplant', 0.889], ['radish', 0.889], ['tomato', 0.889], ['turnip', 0.889], ['bread', 0.875], ['rice', 0.875], ['yam', 0.842], ['celery', 0.824]]
+JC_sim:  [['potato', 1e+300], ['radish', 0.429], ['bread', 0.393], ['turnip', 0.357], ['tomato', 0.355], ['beets', 0.269], ['rice', 0.228], ['beans', 0.192], ['onions', 0.173], ['cabbage', 0.164]]
+
+Ultimate Union for potato : 
+set(['tomato', 'celery', 'cauliflower', 'beets', 'potato', 'asparagus', 'radish', 'yam', 'turnip', 'eggplant', 'beans', 'cabbage', 'rice', 'onions', 'bread']) 
+Lenght:  15
+
+
+Starting with... comb
+HDC_sim:  [['comb', 0], ['peg', 3911], ['cap_(bottle)', 3986], ['buckle', 4055], ['bin_(waste)', 4099], ['pen', 4113]]
+DatSet_sim:  [['comb', 1.0], ['bag', 0.305], ['cap_(bottle)', 0.28], ['colander', 0.271], ['crocodile', 0.27], ['alligator', 0.269]]
+WUP_sim:  [['comb', 1.0], ['fan_(appliance)', 0.875], ['key', 0.875], ['keyboard_(musical)', 0.875], ['tongs', 0.875], ['bomb', 0.824], ['clamp', 0.824], ['crane_(machine)', 0.824], ['elevator', 0.824], ['level', 0.824]]
+JC_sim:  [['comb', 1e+300], ['gun', 0.083], ['level', 0.076], ['car', 0.074], ['key', 0.074], ['wheel', 0.074], ['building', 0.073], ['missile', 0.073], ['ruler', 0.073], ['mirror', 0.072]]
+
+Ultimate Union for comb : 
+set(['clamp', 'wheel', 'bomb', 'bin_(waste)', 'ruler', 'missile', 'crocodile', 'key', 'mirror', 'comb', 'building', 'tongs', 'crane_(machine)', 'level', 'alligator', 'car', 'buckle', 'fan_(appliance)', 'gun', 'elevator', 'colander', 'bag', 'pen', 'keyboard_(musical)', 'peg', 'cap_(bottle)']) 
+Lenght:  26
+
+
+Starting with... fork
+HDC_sim:  [['fork', 0], ['knife', 3711], ['spoon', 3864], ['bucket', 4004], ['spatula', 4005], ['grater', 4019]]
+DatSet_sim:  [['fork', 1.0], ['spoon', 0.546], ['spatula', 0.348], ['colander', 0.292], ['tongs', 0.284], ['knife', 0.254]]
+WUP_sim:  [['fork', 1.0], ['spoon', 0.9], ['cup', 0.8], ['dish', 0.8], ['plate', 0.8], ['saucer', 0.8], ['toy', 0.625], ['balloon', 0.588], ['board_(black)', 0.588], ['bow_(ribbon)', 0.588]]
+JC_sim:  [['fork', 1e+300], ['spoon', 0.697], ['dish', 0.176], ['cup', 0.149], ['plate', 0.141], ['saucer', 0.098], ['building', 0.08], ['toilet', 0.073], ['book', 0.071], ['house', 0.071]]
+
+Ultimate Union for fork : 
+set(['fork', 'plate', 'board_(black)', 'toilet', 'house', 'spatula', 'spoon', 'toy', 'dish', 'saucer', 'building', 'colander', 'grater', 'bow_(ribbon)', 'cup', 'balloon', 'bucket', 'tongs', 'book', 'knife']) 
+Lenght:  20
+
+
+Starting with... bus
+HDC_sim:  [['bus', 0], ['car', 3412], ['van', 3503], ['truck', 3595], ['jet', 3741], ['dunebuggy', 3816]]
+DatSet_sim:  [['bus', 1.0], ['car', 0.563], ['truck', 0.507], ['taxi', 0.472], ['van', 0.468], ['scooter', 0.433]]
+WUP_sim:  [['bus', 1.0], ['train', 0.889], ['trailer', 0.824], ['sled', 0.778], ['sleigh', 0.778], ['bike', 0.737], ['missile', 0.737], ['scooter', 0.737], ['skateboard', 0.737], ['tank_(army)', 0.737]]
+JC_sim:  [['bus', 1e+300], ['train', 0.267], ['car', 0.158], ['ship', 0.142], ['truck', 0.137], ['boat', 0.135], ['airplane', 0.132], ['bike', 0.125], ['missile', 0.125], ['van', 0.114]]
+
+Ultimate Union for bus : 
+set(['taxi', 'bus', 'sled', 'missile', 'dunebuggy', 'train', 'ship', 'airplane', 'boat', 'van', 'jet', 'car', 'scooter', 'skateboard', 'tank_(army)', 'bike', 'truck', 'sleigh', 'trailer']) 
+Lenght:  19
+
+
+Starting with... crocodile
+HDC_sim:  [['crocodile', 0], ['alligator', 2438], ['tortoise', 3309], ['turtle', 3670], ['python', 3710], ['rattlesnake', 3721]]
+DatSet_sim:  [['crocodile', 1.0], ['alligator', 0.822], ['walrus', 0.392], ['iguana', 0.362], ['turtle', 0.346], ['otter', 0.335]]
+WUP_sim:  [['crocodile', 1.0], ['alligator', 0.923], ['iguana', 0.786], ['python', 0.786], ['rattlesnake', 0.786], ['turtle', 0.769], ['frog', 0.75], ['salamander', 0.75], ['toad', 0.75], ['tortoise', 0.741]]
+JC_sim:  [['crocodile', 1e+300], ['alligator', 0.476], ['python', 0.127], ['turtle', 0.126], ['rattlesnake', 0.123], ['tortoise', 0.108], ['horse', 0.085], ['cat', 0.077], ['dog', 0.077], ['goat', 0.074]]
+
+Ultimate Union for crocodile : 
+set(['turtle', 'python', 'salamander', 'dog', 'crocodile', 'iguana', 'horse', 'tortoise', 'alligator', 'rattlesnake', 'frog', 'cat', 'toad', 'otter', 'walrus', 'goat']) 
+Lenght:  16
+
+
+Starting with... boots
+HDC_sim:  [['boots', 0], ['shoes', 3436], ['slippers', 3750], ['coat', 4053], ['socks', 4067], ['gloves', 4105]]
+DatSet_sim:  [['boots', 1.0], ['shoes', 0.62], ['gloves', 0.441], ['socks', 0.381], ['slippers', 0.37], ['scarf', 0.343]]
+WUP_sim:  [['boots', 1.0], ['shoes', 0.875], ['slippers', 0.875], ['sandals', 0.824], ['earmuffs', 0.8], ['cap_(bottle)', 0.75], ['carpet', 0.75], ['mat', 0.75], ['shield', 0.75], ['skirt', 0.75]]
+JC_sim:  [['boots', 1e+300], ['shoes', 0.398], ['slippers', 0.198], ['sandals', 0.173], ['pants', 0.109], ['shield', 0.104], ['dress', 0.102], ['coat', 0.098], ['curtains', 0.098], ['drapes', 0.098]]
+
+Ultimate Union for boots : 
+set(['curtains', 'shoes', 'drapes', 'boots', 'cap_(bottle)', 'socks', 'skirt', 'sandals', 'dress', 'carpet', 'earmuffs', 'coat', 'mat', 'shield', 'gloves', 'scarf', 'slippers', 'pants']) 
+Lenght:  18
+
+
+Starting with... rifle
+HDC_sim:  [['rifle', 0], ['pistol', 2804], ['gun', 2953], ['shotgun', 3109], ['bazooka', 3135], ['revolver', 3366]]
+DatSet_sim:  [['rifle', 1.0], ['gun', 0.758], ['pistol', 0.704], ['bazooka', 0.608], ['shotgun', 0.56], ['spear', 0.516]]
+WUP_sim:  [['rifle', 1.0], ['pistol', 0.917], ['shotgun', 0.917], ['gun', 0.909], ['revolver', 0.88], ['bow_(weapon)', 0.818], ['missile', 0.818], ['spear', 0.818], ['sword', 0.818], ['tomahawk', 0.818]]
+JC_sim:  [['rifle', 1e+300], ['gun', 0.468], ['pistol', 0.284], ['revolver', 0.21], ['missile', 0.179], ['shotgun', 0.169], ['sword', 0.168], ['bullet', 0.151], ['ruler', 0.144], ['spear', 0.132]]
+
+Ultimate Union for rifle : 
+set(['sword', 'spear', 'ruler', 'bow_(weapon)', 'gun', 'rifle', 'missile', 'bullet', 'shotgun', 'tomahawk', 'revolver', 'bazooka', 'pistol']) 
+Lenght:  13
+
+
+Starting with... trousers
+HDC_sim:  [['trousers', 0], ['pants', 2517], ['shirt', 3774], ['coat', 3798], ['scarf', 3936], ['socks', 4048]]
+DatSet_sim:  [['trousers', 1.0], ['pants', 0.758], ['shirt', 0.354], ['coat', 0.331], ['shawl', 0.324], ['sweater', 0.287]]
+WUP_sim:  [['trousers', 1.0], ['hose_(leggings)', 0.9], ['leotards', 0.9], ['pants', 0.9], ['scarf', 0.9], ['shirt', 0.9], ['sweater', 0.9], ['swimsuit', 0.9], ['veil', 0.9], ['vest', 0.9]]
+JC_sim:  [['trousers', 1e+300], ['pants', 0.155], ['coat', 0.134], ['cloak', 0.126], ['cape', 0.12], ['jacket', 0.119], ['shirt', 0.116], ['tie', 0.114], ['sweater', 0.112], ['dress', 0.111]]
+
+Ultimate Union for trousers : 
+set(['vest', 'shawl', 'veil', 'socks', 'leotards', 'cape', 'dress', 'shirt', 'coat', 'sweater', 'hose_(leggings)', 'cloak', 'swimsuit', 'jacket', 'trousers', 'tie', 'scarf', 'pants']) 
+Lenght:  18
+
+
+Starting with... stove
+HDC_sim:  [['stove', 0], ['oven', 3265], ['toaster', 3406], ['mixer', 3792], ['dishwasher', 3964], ['spatula', 3980]]
+DatSet_sim:  [['stove', 1.0], ['toaster', 0.727], ['oven', 0.676], ['microwave', 0.548], ['mixer', 0.503], ['pot', 0.477]]
+WUP_sim:  [['stove', 1.0], ['microwave', 0.917], ['oven', 0.917], ['toaster', 0.917], ['dishwasher', 0.833], ['fridge', 0.8], ['freezer', 0.769], ['apron', 0.636], ['belt', 0.636], ['bra', 0.636]]
+JC_sim:  [['stove', 1e+300], ['oven', 0.317], ['microwave', 0.202], ['fridge', 0.185], ['pants', 0.181], ['freezer', 0.172], ['dress', 0.162], ['dishwasher', 0.154], ['coat', 0.153], ['cloak', 0.142]]
+
+Ultimate Union for stove : 
+set(['apron', 'stove', 'fridge', 'spatula', 'microwave', 'oven', 'dress', 'bra', 'belt', 'dishwasher', 'coat', 'toaster', 'cloak', 'mixer', 'freezer', 'pot', 'pants']) 
+Lenght:  17
+
+
+Starting with... bowl
+HDC_sim:  [['bowl', 0], ['dish', 3143], ['plate', 3872], ['tray', 4064], ['bucket', 4086], ['umbrella', 4207]]
+DatSet_sim:  [['bowl', 1.0], ['dish', 0.652], ['plate', 0.534], ['tray', 0.343], ['cap_(bottle)', 0.324], ['marble', 0.323]]
+WUP_sim:  [['bowl', 1.0], ['barrel', 0.889], ['bathtub', 0.889], ['bottle', 0.889], ['bucket', 0.889], ['jar', 0.889], ['ladle', 0.889], ['pot', 0.889], ['tank_(container)', 0.889], ['kettle', 0.842]]
+JC_sim:  [['bowl', 1e+300], ['bottle', 0.146], ['barrel', 0.143], ['tank_(container)', 0.134], ['bathtub', 0.129], ['pot', 0.127], ['jar', 0.124], ['mug', 0.117], ['bucket', 0.116], ['car', 0.115]]
+
+Ultimate Union for bowl : 
+set(['plate', 'umbrella', 'ladle', 'bucket', 'pot', 'kettle', 'bowl', 'jar', 'mug', 'tank_(container)', 'bottle', 'car', 'dish', 'barrel', 'bathtub', 'tray', 'marble', 'cap_(bottle)']) 
+Lenght:  18
+
+
+Starting with... apple
+HDC_sim:  [['apple', 0], ['lemon', 3428], ['honeydew', 3486], ['cherry', 3502], ['pear', 3603], ['grape', 3652]]
+DatSet_sim:  [['apple', 1.0], ['cherry', 0.665], ['tomato', 0.644], ['pear', 0.632], ['strawberry', 0.62], ['raspberry', 0.588]]
+WUP_sim:  [['apple', 0.909], ['pear', 0.909], ['olive', 0.857], ['avocado', 0.818], ['banana', 0.818], ['cherry', 0.818], ['cranberry', 0.818], ['grape', 0.818], ['nectarine', 0.818], ['peach', 0.818]]
+JC_sim:  [['apple', 1e+300], ['pear', 0.485], ['grape', 0.194], ['orange', 0.183], ['avocado', 0.167], ['lemon', 0.167], ['lime', 0.155], ['beans', 0.152], ['pineapple', 0.152], ['potato', 0.148]]
+
+Ultimate Union for apple : 
+set(['apple', 'pineapple', 'pear', 'olive', 'grape', 'raspberry', 'lime', 'tomato', 'honeydew', 'lemon', 'peach', 'nectarine', 'potato', 'cherry', 'avocado', 'strawberry', 'beans', 'cranberry', 'orange', 'banana']) 
+Lenght:  20
+
+
+Starting with... toaster
+HDC_sim:  [['toaster', 0], ['stove', 3406], ['kettle', 3803], ['mixer', 3840], ['oven', 3953], ['skillet', 3957]]
+DatSet_sim:  [['toaster', 1.0], ['stove', 0.727], ['mixer', 0.582], ['microwave', 0.545], ['oven', 0.524], ['pot', 0.47]]
+WUP_sim:  [['toaster', 1.0], ['microwave', 0.917], ['oven', 0.917], ['stove', 0.917], ['dishwasher', 0.833], ['fridge', 0.8], ['freezer', 0.769], ['apron', 0.636], ['belt', 0.636], ['bra', 0.636]]
+JC_sim:  [['toaster', 1e+300], ['accordion', 0.0], ['airplane', 0.0], ['alligator', 0.0], ['ambulance', 0.0], ['anchor', 0.0], ['ant', 0.0], ['apartment', 0.0], ['apple', 0.0], ['apron', 0.0]]
+
+Ultimate Union for toaster : 
+set(['apron', 'kettle', 'apple', 'stove', 'ambulance', 'fridge', 'ant', 'microwave', 'oven', 'airplane', 'skillet', 'bra', 'belt', 'dishwasher', 'apartment', 'accordion', 'alligator', 'toaster', 'mixer', 'anchor', 'freezer', 'pot']) 
+Lenght:  22
+
+
+
+
+
+
